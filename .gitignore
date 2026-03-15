@@ -1,0 +1,18 @@
+# Step 1: Ignore absolutely everything in this folder
+/*
+
+# Step 2: EXCEPT these specific ricing folders
+!/cava/
+!/fastfetch/
+!/hypr/
+!/kitty/
+!/matugen/
+!/rofi/
+!/swaync/
+!/waybar/
+!/wayclick/
+!/wifi-manager/
+!/wlogout/
+
+# Step 3: And keep this .gitignore file itself
+!.gitignore

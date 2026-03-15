@@ -1,0 +1,9 @@
+# Anchor to top-right
+position = "top-right"
+
+# Add some margin so it doesn't stick directly to the edges or Waybar
+margin_top = 50
+margin_right = 15
+
+# Keep the daemon running but hide on startup
+show_on_start = false
